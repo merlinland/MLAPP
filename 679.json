@@ -1,0 +1,17 @@
+{
+  section {
+    header {
+      title Add Assets,
+      logo httpsmerlinland.proimagesAddAssets.png,
+      link httpsmerlinland.proaddassets
+    },
+    description Build the first app in MLAPP. Used to quickly add various assets of MerLin Land,
+    tags [
+      Tool,
+      Official
+    ],
+    landID {
+      id #679
+    }
+  }
+}
