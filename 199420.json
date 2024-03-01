@@ -1,0 +1,18 @@
+{
+  "section": {
+    "header": {
+      "title": "Merlin Tanks",
+      "logo": "https://merlintanks.vercel.app/icons/icon-64.png",
+      "link": "https://merlintanks.vercel.app/"
+    },
+    "description": "Try Build pixel-style STG game on Merlin Land, which has 30 levels for wizards to play freely.",
+    "tags": [
+      "Game",
+	  "Pixel",
+      "3PDs"
+    ],
+    "landID": {
+      "id": "199420"
+    }
+  }
+}
