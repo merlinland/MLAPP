@@ -1,0 +1,17 @@
+{
+  "section": {
+    "header": {
+      "title": "Merlin Starter",
+      "logo": "https://merlinstarter.com/favicon.ico",
+      "link": "https://merlinstarter.com/"
+    },
+    "description": "The 1st native launchpad and Bitcoin layer2 accelerator on Merlin Chain.",
+    "tags": [
+      "Airdrop",
+	  "Launchpad"
+    ],
+    "landID": {
+      "id": "157059"
+    }
+  }
+}
