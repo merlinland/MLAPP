@@ -1,0 +1,17 @@
+{
+  "section": {
+    "header": {
+      "title": "Set Land status",
+      "logo": "https://merlinland.pro/images/AddAssets.png",
+      "link": "https://merlinland.pro/setstatus"
+    },
+    "description": "Quickly set Land Inscription & NFT status to support larger single transfers",
+    "tags": [
+      "Tool",
+      "Official"
+    ],
+    "landID": {
+      "id": "674"
+    }
+  }
+}
