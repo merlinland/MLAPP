@@ -1,0 +1,18 @@
+{
+  "section": {
+    "header": {
+      "title": "Merlin Garden",
+      "logo": "https://merlinland.pro/images/logo500.png",
+      "link": "https://garden.merlin.game/"
+    },
+    "description": "Quickly use the visual IDE to create spatial axis standard Json files in your Land",
+    "tags": [
+      "Tool",
+      "Official",
+      "Game"
+    ],
+    "landID": {
+      "id": "672"
+    }
+  }
+}
