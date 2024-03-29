@@ -1,0 +1,18 @@
+{
+  "section": {
+    "header": {
+      "title": "Upload Metadata Json to IPFS",
+      "logo": "https://ipfs.merlin.game/img/ipfs.png",
+      "link": "https://ipfs.merlin.game"
+    },
+    "description": "Conveniently upload the standard Json metadata of land to IPFS decentralized storage for permanent storage",
+    "tags": [
+      "Tool",
+      "Official",
+      "Game"
+    ],
+    "landID": {
+      "id": "677"
+    }
+  }
+}
